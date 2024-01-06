@@ -166,5 +166,36 @@ nav a {
     color: #474747;
     font-size: 25px;
     font-weight: 700;
+    margin-bottom: 10px;
 
+}
+
+.resume-container {
+    display: flex;
+    gap: 50px;
+}
+.reseme-item-institute{
+    margin-bottom: 20px;
+    margin: 0;
+}
+
+.reseme-item-institute,
+.rsume-item-description {
+    color: #757575;
+}
+
+.resume-item-title {
+    color:  #474747;
+    font-size: 25px;
+    font-weight: 700
+}
+.resume-container hr{
+    margin: 30px;
+    width: 558px;
+    align-items: center;
+}
+.Download{
+    margin-top: 50px;
+    text-align: center;
+    
 }
